@@ -1,0 +1,26 @@
+.gallery {
+   display: flex;    
+   width: 70%;
+   height: 500px;
+
+   overflow: hidden;
+
+   margin: 0 auto;
+
+   border: 2px salmon;
+}
+
+.gallery-imag{
+   height: 100%;
+   width: 300%;
+
+   background-color: brown;
+}
+
+.gallery-image img {
+   width: 300px;
+}
+
+.first-image{
+    margin-left: 300%;
+}
